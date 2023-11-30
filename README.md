@@ -10,3 +10,4 @@
    - https://thestarman.pcministry.com/asm/mbr/PartTables.htm
 ### SSH
 - https://www.netburner.com/learn/introduction-to-the-ssh-protocol/#:~:text=SSH%20is%20an%20acronym%20for,the%20same%20tasks%20as%20SSH.
+- https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/transmission-control-protocol--tcp
