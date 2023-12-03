@@ -13,3 +13,5 @@
    #### TCP
    - https://www.khanacademy.org/computing/computers-and-internet/xcae6f4a7ff015e7d:the-internet/xcae6f4a7ff015e7d:transporting-packets/a/transmission-control-protocol--tcp
    - https://www.avast.com/c-what-is-tcp-ip
+### database
+- https://datascientest.com/en/database-what-is-it
