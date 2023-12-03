@@ -15,3 +15,4 @@
    - https://www.avast.com/c-what-is-tcp-ip
 ### database
 - https://datascientest.com/en/database-what-is-it
+- https://www.hostinger.com/tutorials/wordpress-database
