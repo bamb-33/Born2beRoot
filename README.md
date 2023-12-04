@@ -16,3 +16,6 @@
 ### database
 - https://datascientest.com/en/database-what-is-it
 - https://www.hostinger.com/tutorials/wordpress-database
+### tutorials to setting up a wordpress website with lighttpd and mariaDB
+- https://www.tecmint.com/install-lighttpd-in-ubuntu/
+- https://kucadevelopment.wordpress.com/2021/03/22/installation-lighttpd-php-mariadb-and-wordpress-to-orage-pi-zero-2/
